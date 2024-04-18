@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DNbME2QAXn1Xhk616XHvHvJuJ3kDT/ZOD4IhrKvqs3bRW8le91Cxp2wEZcnuS2tG3z8T6knBazxnp/MWcbhNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\WorkSpace\\TKPTGT\\btl\\TSP\\TSP\\TSP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\google.ortools\\9.9.3963\\google.ortools.9.9.3963.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\google.ortools.runtime.linux-arm64\\9.9.3963\\google.ortools.runtime.linux-arm64.9.9.3963.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\google.ortools.runtime.linux-x64\\9.9.3963\\google.ortools.runtime.linux-x64.9.9.3963.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\google.ortools.runtime.osx-arm64\\9.9.3963\\google.ortools.runtime.osx-arm64.9.9.3963.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\google.ortools.runtime.osx-x64\\9.9.3963\\google.ortools.runtime.osx-x64.9.9.3963.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\google.ortools.runtime.win-x64\\9.9.3963\\google.ortools.runtime.win-x64.9.9.3963.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\google.protobuf\\3.25.3\\google.protobuf.3.25.3.nupkg.sha512"
+  ],
+  "logs": []
+}
